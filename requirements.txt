@@ -1,0 +1,4 @@
+requests~=2.27
+addict~=2.4.0
+PyYAML~=6.0
+python-telegram-bot~=13.11

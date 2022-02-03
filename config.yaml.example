@@ -1,0 +1,8 @@
+api_key: xyz
+telegram_token: xyz
+chat_id: "@chat_id"
+mensa_id: 620
+# 610 - Mensa Rempartstraße
+# 620 - Mensa Institutsviertel
+# 630 - Mensa Littenweiler
+# 681 - Mensa Flugplatz
